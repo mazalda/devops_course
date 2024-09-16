@@ -17,5 +17,6 @@ Part 2 answers:
 
 
 Part 3 answers:
+
 ![image](https://github.com/user-attachments/assets/fd5e222f-2ada-435f-a650-f100d4eb3d6f)
 
